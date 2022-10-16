@@ -1,4 +1,4 @@
-# 50projects-in50days
+# 50JSprojects-in50days
 
 Hello, everyone!
 I'm doing 50 JavaScript projects in 50 days.
